@@ -26,7 +26,7 @@ export default {
         bookTitle: "",
         bookAuthor: "",
         finishedReading: false,
-        ownership: []
+        ownership: ""
       }
     };
   },
@@ -39,5 +39,4 @@ export default {
 </script>
 
 <style>
-
 </style>
